@@ -1,0 +1,76 @@
+/* custom css */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+img{width: 100%;}
+h1,h2{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+h3,h4,h5,h6{color: #363958;}
+p{color: #3E3E3E;}
+.orange{color: #FABE4C;}
+.section-padding{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+/* button style */
+.custom-button{
+    padding: 18px 33px;
+    font-size: 15px;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border-radius: 10px;
+    border-style: none;
+    color: #fff;
+}
+.custom-button i{
+    margin-right: 10px;
+}
+/* -------- */
+
+.header-area{
+    background-color: #FFFBF0;
+}
+.penguin-logo{
+    width: 400px;
+}
+.navbar-nav .nav-link{
+    color: #3C3C3C;
+    font-size: 17px;
+    font-weight: 500;
+}
+.nav-bg{
+    background-color: #FFFBF0;
+}
+.person-image{
+    width: 100%;
+}
+.hero-area h1{
+    font-size: 80px;
+}
+.section-title h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background: #ffffff;
+    border: 0;
+}
+.pricing span{
+    color: #FABE4C;
+    font-size: 30px;
+    font-weight: 500;
+}
+.how-we-work img{
+    width: 80px;
+}
+.how-we-work h5{
+    font-size: 22px;
+}
+.right-img img{
+    width: 100%;
+}
+
